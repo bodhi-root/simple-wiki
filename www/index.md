@@ -11,4 +11,4 @@ This website is divided into the following main sections:
 | Section | Description |
 |---------|-------------|
 | [Computer Technology](computer-technology/index.md) | Anything computer-related.  Mostly software development or Linux and database notes. |
-| [About Me](personal/index.md)                          | Personal content, including reading list and favorite quotes. |
+| [About Me](personal/index.md)                       | Personal content, including reading list and favorite quotes. |

@@ -1,4 +1,4 @@
-# Private Wiki
+# Public Wiki
 
 This is a test of a public wiki-style site.  The site consists of Markdown documents that are rendered as HTML through the lightweight [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) project.  The project is no longer maintained, but I like the idea: simply add ".md" files (and other media) and the main page will load these and transform them into HTML on the fly.  The only thing that might make this cooler would be an option to edit the markdown files in the browser and save them, but this would make too many assumptions about where the wiki was running.  For now, we will just edit the markdown files locally, commit to GitLab/GitHub, and try to automate the deployment of the site to Google Cloud Storage.  In the future we might use one of those fancy new static site generators, but this should be a quick way to get some content going.
 
