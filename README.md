@@ -17,3 +17,9 @@ npm start
 ```
 
 This allows you to view your site before committing it to git or pushing it to production.
+
+## Ideas
+
+This might be a cool format for these notes:
+
+https://www.gatsbyjs.com/starters/hasura/gatsby-gitbook-starter/
